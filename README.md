@@ -2,9 +2,7 @@
 
 Brand guideline và playbook chính thức của **TECOTEC Group** — hướng dẫn nhận diện thương hiệu, giọng điệu nội dung, và quy tắc truyền thông cho đối tác.
 
-## Live Site
-
-[https://tecotec-mkt.github.io/TECOTEC-Branding/](https://tecotec-mkt.github.io/TECOTEC-Branding/)
+## Live Site: https://mkt-tecotec.github.io/TECOTEC-Branding/
 
 ## Nội dung Playbook
 
