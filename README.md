@@ -1,4 +1,4 @@
-# TECOTEC GROUP — Brand Personality & Voice Tone Playbook 2.0
+# TECOTEC GROUP — Brand Personality & Voice Tone Playbook
 
 Brand guideline và playbook chính thức của **TECOTEC Group** — hướng dẫn nhận diện thương hiệu, giọng điệu nội dung, và quy tắc truyền thông cho đối tác.
 
